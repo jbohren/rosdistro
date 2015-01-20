@@ -819,6 +819,11 @@ repositories:
       type: git
       url: https://github.com/utexas-bwi/concert_scheduling.git
       version: master
+  conman:
+    doc:
+      type: git
+      url: https://github.com/jbohren/conman.git
+      version: master
   console_bridge:
     release:
       tags:
